@@ -9,5 +9,5 @@ Let me know what to change
 
 Quick install the Design here:
 <body>
-<a href="https://userstyles.org/styles/186152/pewdiepie-reddit-design" target="_blank">Link to Userstyle</a>
+<a href="https://userstyles.org/styles/186152/pewdiepie-reddit-design" target=_blank>Link to Userstyle</a>
 </body>
