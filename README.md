@@ -1,5 +1,5 @@
 # PP-reddit-design
-PewDiePie reddit design
+Pewdiepie reddit design
 -Made by Liolanse
 [fist css code ever]
 
